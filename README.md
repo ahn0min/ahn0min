@@ -7,18 +7,19 @@
     
     
 ### Tech Stack
-|Language|Web-Front-End|Web-Back-End|
-|:---:|:---:|:---:|
-|<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>| <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> | 
+|Language|Web-Front-End|StateManagement|DataFetching|
+|:---:|:---:|:---:|:---:|
+|<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>|<img src="https://img.shields.io/badge/Recoil-blue?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> | <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
 
 --- 
 <p align="center">
-  <h4> Contact 📩 </h4>
+  <!--<h4> Contact 📩 
   <br>
   <a href="https://velog.io/@ahn0min" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
    <a href="mailto:ahn0min95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=ahn0min95@gmail.com"/></a>
 </p>
 </p>
+</h4>--!>
   
 </div>
 </samp>
